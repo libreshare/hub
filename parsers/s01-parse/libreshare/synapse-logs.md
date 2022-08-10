@@ -1,0 +1,1 @@
+Synapse authentication failure parser.
