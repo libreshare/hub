@@ -1,7 +1,7 @@
 # home-assistant bruteforce
 type: leaky
 #debug: true
-name: crowdsecurity/home-assistant-bf
+name: libreshare/home-assistant-bf
 description: "Detect Home Assistant bruteforce"
 filter: evt.Meta.log_type == 'home-assistant_failed_auth'
 leakspeed: "10s"
